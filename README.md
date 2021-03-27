@@ -28,18 +28,14 @@ Your team has been tasked with creating pinterest.  If you live under a rock and
 * Import that data into firebase
 
 #### User Stories
-* As a user, when I am logged in and the page loads, I should see all the boards that belong to me.
-
-* As a user, when I click on one of my boards, I should see a single board view that shows all pins for that board.
-
-* As a user, when I am on the single board view, there should be some way to go back to all my boards.
+- As a user, when I am logged in and the page loads, I should see all the boards that belong to me.
+- As a user, when I click on one of my boards, I should see a single board view that shows all pins for that board.
+- As a user, when I am on the single board view, there should be some way to go back to all my boards.
 
 ### Part 3: DELETE
-* As a user, I should be able to delete a pin from one of my boards.
-
-* As a user, I should be able to delete one of my boards.
-
-* As a user, when I delete one of my boards all pins that were on that board should be deleted as well.
+- As a user, I should be able to delete a pin from one of my boards.
+- As a user, I should be able to delete one of my boards.
+- As a user, when I delete one of my boards all pins that were on that board should be deleted as well.
 
 ### Part 4: CREATE
 * As a user, I should be able to create a new pin.
