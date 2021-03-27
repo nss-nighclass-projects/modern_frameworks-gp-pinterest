@@ -12,6 +12,9 @@ Your team has been tasked with creating pinterest.  If you live under a rock and
 ## HW Parts
 
 ### Part 1: ERDs and Authentication
+NOTE: You should have already done the ERD with the Webpack Pinterest Project
+Feel Free to use the same one.
+
 * Create an ERD for pinterest (do this in studygroup)
 * Clone this repo
 * Create a setup branch
@@ -38,14 +41,12 @@ Your team has been tasked with creating pinterest.  If you live under a rock and
 - As a user, when I delete one of my boards all pins that were on that board should be deleted as well.
 
 ### Part 4: CREATE
-* As a user, I should be able to create a new pin.
-
-* As a user, I should be able to create a new board.
+- As a user, I should be able to create a new pin.
+- As a user, I should be able to create a new board.
 
 ### Part 5: UPDATE
-* As a user, I should be able to change which board a pin belongs to.
+- As a user, I should be able to change which board a pin belongs to.
 
 ### Part 6: Deploy and Readme
-* As a user I should be able to use your app on the internet - it should be deployed using Netlify.
-
-* As a developer, I want to see an amazing README for this project.
+- As a user I should be able to use your app on the internet - it should be deployed using Netlify.
+- As a developer, I want to see an amazing README for this project.
