@@ -69,8 +69,8 @@ Feel Free to use the same one.
 
 ### Extra Goodies
 - Allow users to upload images. Not just paste a URL for image.
-- Allow users to signup/login with another Authentication method from Firebase. Your choice. This will take some digging into the docs. Allow user to use OAuth to log in via a social service with [signInWithPopup()](https://firebase.google.com/docs/auth/web/github-auth#handle_the_sign-in_flow_with_the_firebase_sdk) (GitHub linked, other OAuth providers are listed in the left sidebar).
+- Allow users to signup/login with another Authentication method from Firebase. Your choice. This will take some digging into the docs. Example: [signInWithPopup()](https://firebase.google.com/docs/auth/web/github-auth#handle_the_sign-in_flow_with_the_firebase_sdk) (GitHub linked, other OAuth providers are listed in the left sidebar).
 
 ## Firebase Docs
-Determine if the user is logged in with [onAuthStateChanged or currentUser](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
-Perform an action as soon as user logs in or out with the [onAuthStateChanged event listener](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
+- Determine if the user is logged in with [onAuthStateChanged or currentUser](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
+- Perform an action as soon as user logs in or out with the [onAuthStateChanged event listener](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
