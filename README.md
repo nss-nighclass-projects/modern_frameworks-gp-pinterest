@@ -9,7 +9,7 @@ Your team has been tasked with creating pinterest.  If you live under a rock and
 * SASS and Bootstrap for styling
 * Completely planned out - before each section you should be making new cards before you code.  You should have wireframes and an ERD
 
-## HW Parts
+## Parts
 
 ### Part 1: ERDs and Authentication
 NOTE: You should have already done the ERD with the Webpack Pinterest Project
