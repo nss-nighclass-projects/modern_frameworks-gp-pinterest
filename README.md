@@ -1,6 +1,8 @@
 # Pinterest- React
 
-Your team has been tasked with creating pinterest.  If you live under a rock and have never used pinterest before go figure out what it does. TLDR; users create boards and can pin urls to the boards
+Your team has been tasked with recreating pinterest.
+
+TLDR: users create boards and can pin urls to the boards
 
 ## Requirements
 * Clean code - single responsibility principle
