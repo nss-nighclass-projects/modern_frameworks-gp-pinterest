@@ -42,7 +42,9 @@ Feel Free to use the same one.
 
 ### Part 4: CREATE
 - As a user, I should be able to create a new pin.
+  - pins should be able to be marked private
 - As a user, I should be able to create a new board.
+  - boards should be able to be marked private
 
 ### Part 5: UPDATE
 - As a user, I should be able to change which board a pin belongs to.
@@ -50,3 +52,19 @@ Feel Free to use the same one.
 ### Part 6: Deploy and Readme
 - As a user I should be able to use your app on the internet - it should be deployed using Netlify.
 - As a developer, I want to see an amazing README for this project.
+
+## Stretch
+### As an authenticated user:
+  - when I navigate to the Home page of the app, I should be able to see all public pins from other users
+  - I should be able to pin any public pin to one of my boards
+  - I should be able to share PUBLIC boards
+  - If I share a URL to a PUBLIC board, the person recieving the URL should be able to view that board and all the pins associated with that board. (HINT: You may want to create a special route that is not private)
+
+### As an unauthenticated user:
+  - when I navigate to the app, I should be able to see all public pins from other users
+  - If I try to pin one of the public pins, I should be prompted to login
+  - If a user shares a URL to a board, I should be able to view that board and all the pins associated with that board. (HINT: You may want to create a special route that is not private)
+
+### Extra Goodies
+- Allow users to upload images. Not just paste a URL for image.
+- Allow users to signup/login with another Authentication method from Firebase. Your choice. This will take some digging into the docs.
