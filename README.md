@@ -17,7 +17,7 @@ TLDR: users create boards and can pin urls to the boards
 NOTE: You should have already done the ERD with the Webpack Pinterest Project
 Feel Free to use the same one.
 
-* Create an ERD for pinterest (do this in studygroup)
+* Create an ERD for pinterest
 * Clone this repo
 * Create a setup branch
 * Do all the stuff needed when setting up the project. Reference the webpack instructions if needed. These include making the updates to the `.env` file
