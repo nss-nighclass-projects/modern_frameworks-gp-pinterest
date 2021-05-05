@@ -8,7 +8,7 @@ TLDR: users create boards and can pin urls to the boards
 * Clean code - single responsibility principle
 * ReactJS
 * No errors - linters should be clean
-* SASS and Bootstrap for styling
+* SASS/Bootstrap/Reactstrap for styling
 * Completely planned out - before each section you should be making new cards before you code.  You should have wireframes and an ERD
 
 ## Parts
