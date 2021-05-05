@@ -18,9 +18,9 @@ NOTE: You should have already done the ERD with the Webpack Pinterest Project
 Feel Free to use the same one.
 
 * Create an ERD for pinterest
-* Clone this repo
+* Create a repo
 * Create a setup branch
-* Do all the stuff needed when setting up the project. Reference the webpack instructions if needed. These include making the updates to the `.env` file
+* Do all the stuff needed when setting up the project. These include making the updates to the `.env` file
   * Create a new firebase project, database, and enable google authentication, etc.
 * Create an authentication branch and add a navbar with logout button, and place the google login button somewhere for you to test
   * **Note: There are components that you can use to get started and style later. We just want you to get your auth setup by yourself.**
@@ -72,5 +72,4 @@ Feel Free to use the same one.
 - Allow users to signup/login with another Authentication method from Firebase. Your choice. This will take some digging into the docs. Example: [signInWithPopup()](https://firebase.google.com/docs/auth/web/github-auth#handle_the_sign-in_flow_with_the_firebase_sdk) (GitHub linked, other OAuth providers are listed in the left sidebar).
 
 ## Firebase Docs
-- Determine if the user is logged in with [onAuthStateChanged or currentUser](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
 - Perform an action as soon as user logs in or out with the [onAuthStateChanged event listener](https://firebase.google.com/docs/auth/web/manage-users#get_the_currently_signed-in_user)
